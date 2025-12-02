@@ -1,18 +1,25 @@
 # Cold-Plasma-Jet
-Novel Medical Cold Plasma Jet with Embedded System
-   After the literature review, we understand that power source plays the device's prominent role. If we can design a variable, compatible, safe and stable Powe supply for any potential application, we passed an essential step toward the best final product and leading device designing.
-   
+
+•	Design & Manufacturing Variable High Voltage-High Frequency Cold Plasma Jet (100kHz – 40 kV | with Condition Monitoring and ATmega328 Microcontroller Embedded System), 2021
+Supervised by Dr. Beigzadeh (Head of Biomechatronics and Cognitive Engineering Laboratory of IUST (BACE Lab.)), Funded 1000$ by Iranian National Elites Foundation
+  
  <img width="554" height="198" alt="Picture6" src="https://github.com/user-attachments/assets/535c2017-c1c3-419b-9036-e17158193c51" />
 
 Figure 1. Block diagram of the proposed prototype. [1]
+
    The power supply of Cold Plasma device has a unique situation in Electrical Engineering because of a precise collaboration of main fields of this science, including;
+   
 1-	Telecommunications Engineering (Especially in function generator and noise filtering)
+
 2-	Electronics (Esp. in switching circuit)
+
 3-	Power electronics (Esp. in transformation and insulations)
+
 4-	Control Engineering
+
 5-	Electromagnetics (Esp. in interaction with Cold Plasma Jet)
 
-But this effort didn’t deserve the title of design and engineering and was merely a practical exercise.
+
 
 -	Keywords: Safety, Circuit, High Frequency, High Voltage, Signal Generator, PWM, Ferrite Transformer, Switching
 
