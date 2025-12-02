@@ -24,7 +24,21 @@ Figure 1. Block diagram of the proposed prototype. [1]
 -	Keywords: Safety, Circuit, High Frequency, High Voltage, Signal Generator, PWM, Ferrite Transformer, Switching
 
 
-| [![Back view](https://github.com/user-attachments/assets/2922ab8e-79b1-46ad-9e40-b84fdbf30da8)](https://github.com/user-attachments/assets/2922ab8e-79b1-46ad-9e40-b84fdbf30da8) | [![Temperature sensor & MOSFET](https://github.com/user-attachments/assets/c6d14dfe-e83a-4a29-af92-2cc8a906fe56)](https://github.com/user-attachments/assets/c6d14dfe-e83a-4a29-af92-2cc8a906fe56) | [![PWM control](https://github.com/user-attachments/assets/7c9a3753-a06a-4e6f-8ab6-43a0bf22320b)](https://github.com/user-attachments/assets/7c9a3753-a06a-4e6f-8ab6-43a0bf22320b) |
-|:---------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------:|
-| [![Plasma jet in action](https://github.com/user-attachments/assets/bd473969-7df3-49f7-ad3f-5e3e214251cb)](https://github.com/user-attachments/assets/bd473969-7df3-49f7-ad3f-5e3e214251cb) | [![Inside the system](https://github.com/user-attachments/assets/23eb73cb-98fe-44fe-a692-d45a8aba2ab8)](https://github.com/user-attachments/assets/23eb73cb-98fe-44fe-a692-d45a8aba2ab8) | [![Final assembly](https://github.com/user-attachments/assets/a4b93d95-1d00-41ac-9105-7c95f897c201)](https://github.com/user-attachments/assets/a4b93d95-1d00-41ac-9105-7c95f897c201) |
+<!-- 2×3 Photo Grid – Custom Order (Final | Plasma Jet | Back) on top -->
+<table>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/a4b93d95-1d00-41ac-9105-7c95f897c201" alt="Final assembly"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/bd473969-7df3-49f7-ad3f-5e3e214251cb" alt="Plasma jet in action"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/2922ab8e-79b1-46ad-9e40-b84fdbf30da8" alt="Back view"></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/c6d14dfe-e83a-4a29-af92-2cc8a906fe56" alt="Temperature sensor & MOSFET"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/23eb73cb-98fe-44fe-a692-d45a8aba2ab8" alt="Inside the system"></td>
+    <td align="center"><img src="https://github.com/user-attachments/assets/7c9a3753-a06a-4e6f-8ab6-43a0bf22320b" alt="PWM control board"></td>
+  </tr>
+</table>
 
+<!-- این خط باعث می‌شه همه عکس‌ها دقیقاً هم‌اندازه و بدون فاصله باشن -->
+<style>
+  table td img { width: 100%; height: auto; display: block; margin: 0; padding: 0; border: none; }
+</style>
