@@ -16,10 +16,10 @@ But this effort didn’t deserve the title of design and engineering and was mer
 -	Keywords: Safety, Circuit, High Frequency, High Voltage, Signal Generator, PWM, Ferrite Transformer, Switching
 
 
+<img width="363" height="422" alt="Back" src="https://github.com/user-attachments/assets/2922ab8e-79b1-46ad-9e40-b84fdbf30da8" />
+![Temperature Sensore and Mosfet](https://github.com/user-attachments/assets/c6d14dfe-e83a-4a29-af92-2cc8a906fe56)
+<img width="612" height="571" alt="PWM" src="https://github.com/user-attachments/assets/7c9a3753-a06a-4e6f-8ab6-43a0bf22320b" />
+<img width="1540" height="1129" alt="Plasma-Jet" src="https://github.com/user-attachments/assets/bd473969-7df3-49f7-ad3f-5e3e214251cb" />
+<img width="1332" height="661" alt="Inside the system" src="https://github.com/user-attachments/assets/23eb73cb-98fe-44fe-a692-d45a8aba2ab8" />
+![Final](https://github.com/user-attachments/assets/a4b93d95-1d00-41ac-9105-7c95f897c201)
 
-<img width="1540" height="1129" alt="Plasma-Jet" src="https://github.com/user-attachments/assets/9391f0a8-59c4-45db-885e-eda952c62bde" />
-![Final](https://github.com/user-attachments/assets/21ea72ac-13ed-4fe0-abd9-90b2ff9a8ca4)
-<img width="612" height="571" alt="PWM" src="https://github.com/user-attachments/assets/e27dc092-1ca9-4975-8d18-ac81b663ae1b" />
-<img width="1332" height="748" alt="Inside the system" src="https://github.com/user-attachments/assets/4ee50a3d-59c4-4066-860c-e93e9044ef4c" />
-<img width="363" height="422" alt="Back" src="https://github.com/user-attachments/assets/b7113c2b-cc36-4767-a9ea-fb58fdb0eb54" />
-![Temperature Sensore and Mosfet](https://github.com/user-attachments/assets/6eae8234-737f-4ef8-b3aa-f441c04f1699)
