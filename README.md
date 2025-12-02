@@ -7,7 +7,7 @@
 [![Microcontroller](https://img.shields.io/badge/MCU-ATmega328P-critical)](#)
 
 > **Supervisor:** Dr. Borna Beigzadeh – Head of Biomechatronics and Cognitive Engineering Lab (BACE), Iran University of Science and Technology  
-> **Student & Lead Designer:** Ali Bagheri (B.Sc. MechE)
+> **Student & Lead Designer:** Ali Bagheri (B.Sc. MechE & CompE)
 
 ### Project Highlights
 - Variable output: **100 kHz – 40 kV** cold atmospheric plasma jet
