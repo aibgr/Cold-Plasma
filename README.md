@@ -55,7 +55,7 @@ Stable, repeatable cold plasma jet successfully generated and used in preliminar
 B.Sc. Mechanical Engineering & Computer Engineering – IUST 2025  
 Email: AliBagheri79.ab@gmail.com  
 GitHub: [@aibgr](https://github.com/aibgr)  
-LinkedIn: [ali-bagheri](https://www.linkedin.com/in/ali-bagheri-)
+LinkedIn: [ali-bagheri](https://www.linkedin.com/in/aibgr-)
 
 If you find this project useful or inspiring, please give it a STAR  
 Schematics and firmware will be released after related publications.
