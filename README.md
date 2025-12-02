@@ -38,7 +38,4 @@ Figure 1. Block diagram of the proposed prototype. [1]
   </tr>
 </table>
 
-<!-- این خط باعث می‌شه همه عکس‌ها دقیقاً هم‌اندازه و بدون فاصله باشن -->
-<style>
-  table td img { width: 100%; height: auto; display: block; margin: 0; padding: 0; border: none; }
-</style>
+
