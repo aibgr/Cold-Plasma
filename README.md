@@ -1,6 +1,7 @@
 # Cold-Plasma-Jet
 Novel Medical Cold Plasma Jet with Embedded System
    After the literature review, we understand that power source plays the device's prominent role. If we can design a variable, compatible, safe and stable Powe supply for any potential application, we passed an essential step toward the best final product and leading device designing.
+   
  <img width="554" height="198" alt="Picture6" src="https://github.com/user-attachments/assets/535c2017-c1c3-419b-9036-e17158193c51" />
 
 Figure 1. Block diagram of the proposed prototype. [1]
