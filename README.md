@@ -34,9 +34,7 @@
   </tr>
 </table>
 
-<style>
-  table td img { width: 100%; height: auto; display: block; margin: 0; padding: 0; }
-</style>
+
 
 ### Key Technical Areas Covered
 - High-frequency high-voltage power electronics
