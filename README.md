@@ -48,12 +48,11 @@
 ### Outcome
 Stable, repeatable cold plasma jet successfully generated and used in preliminary biomedical tests at BACE Lab.
 
-### Author & Contact
-**Ali Bagheri**  
+### Author
+**A. Bagheri**  
 B.Sc. Mechanical Engineering & Computer Engineering – IUST 2025  
-Email: AliBagheri79.ab@gmail.com  
 GitHub: [@aibgr](https://github.com/aibgr)  
-LinkedIn: [Ali-Bagheri](https://www.linkedin.com/in/aibgr)
+LinkedIn: [A-Bagheri](https://www.linkedin.com/in/aibgr)
 
 If you find this project useful or inspiring, please give it a STAR  
 Schematics and firmware will be released after related publications.
