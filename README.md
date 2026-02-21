@@ -6,7 +6,7 @@
 [![Hardware](https://img.shields.io/badge/Hardware-Custom%20Built-success)](https://github.com/aibgr/Cold-Plasma-Jet)
 [![Microcontroller](https://img.shields.io/badge/MCU-ATmega328P-critical)](#)
 
-> **Supervisor:** Dr. Borna Beigzadeh – Head of Biomechatronics and Cognitive Engineering Lab (BACE), Iran University of Science and Technology  
+> **Supervisor:** Dr. Borhan Beigzadeh – Head of Biomechatronics and Cognitive Engineering Lab (BACE), Iran University of Science and Technology  
 > **Lead Designer:** A. Bagheri (B.Sc. MechE & CompE)
 
 ### Project Highlights
@@ -40,17 +40,15 @@
 - High-frequency high-voltage power electronics
 - Ferrite transformer design & winding
 - Full-bridge MOSFET driver with dead-time control
-- Analog & digital signal conditioning
+- Analog & digital signal conditioning and monitoring
 - Embedded C programming (ATmega328P – Arduino core)
-- PCB design (KiCad)
+- PCB design (Altium)
 - Safety & EMI considerations
 
-### Outcome
-Stable, repeatable cold plasma jet successfully generated and used in preliminary biomedical tests at BACE Lab.
 
 ### Author
 **A. Bagheri**  
-B.Sc. Mechanical Engineering & Computer Engineering – IUST 2025  
+B.Sc. Mechanical Engineering & Computer Engineering – IUST 2021  
 GitHub: [@aibgr](https://github.com/aibgr)  
 LinkedIn: [A-Bagheri](https://www.linkedin.com/in/aibgr)
 
