@@ -53,6 +53,6 @@ GitHub: [@aibgr](https://github.com/aibgr)
 LinkedIn: [A-Bagheri](https://www.linkedin.com/in/aibgr)
 
 If you find this project useful or inspiring, please give it a STAR  
-Schematics and firmware will be released after related publications.
+Schematics and firmware could be released upon contract and deal is open.
 
 **One of my earliest full-stack hardware projects – still one of my favorites!**
