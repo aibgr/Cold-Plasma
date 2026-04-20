@@ -172,4 +172,4 @@ If you find this project interesting or useful, consider giving it a **star**.
 
 ---
 
-**One of my earliest full-stack hardware projects — still one of my favorit
+**One of my earliest full-stack hardware projects — still one of my favorit!**
