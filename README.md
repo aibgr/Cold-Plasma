@@ -77,11 +77,17 @@ This repository includes a **public demo firmware** designed to showcase code qu
 
 
 cold_plasma_controller_demo.ino # main entry point
+
 config.h # pins, thresholds, timing constants
+
 system_types.h # shared data structures & state definitions
+
 sensors.h / sensors.cpp # measurement layer
+
 control.h / control.cpp # state machine & control logic
+
 display_ui.h / display_ui.cpp # OLED interface
+
 
 
 ### Design Approach
