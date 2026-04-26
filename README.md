@@ -1,4 +1,4 @@
-# Antibacterial Cold Plasma Generator – 100 kHz · 40 kV  
+# Antibacterial Cold Plasma Device – 100 kHz · 40 kV  
 **Variable High-Voltage High-Frequency System with Embedded Real-Time Control**  
 2021
 
@@ -13,7 +13,7 @@
 
 ## 🔬 Project Overview
 
-A fully custom-designed **cold atmospheric plasma generator** capable of delivering high-frequency (≈100 kHz) and high-voltage (up to 40 kV) output for antibacterial and experimental applications.
+A fully custom-designed **cold atmospheric plasma device** capable of delivering high-frequency (≈100 kHz) and high-voltage (up to 40 kV) output for antibacterial and experimental applications.
 
 The system integrates **power electronics, embedded control, sensing, and safety mechanisms** into a single platform, fully designed, built, and tested from scratch.
 
